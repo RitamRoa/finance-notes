@@ -7,6 +7,3 @@ GROSS PROFIT = COST OF MANUFACTURING + COST OF GOODS SOLD
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/cde13fd5-0591-47ae-b172-387ee36a1391" />
 
 
-
-# INDIAN FINANCIAL MARKEY : 7TH AUGUST 
----> FACE VALUE(FV), 
