@@ -19,3 +19,16 @@ Social Media:
  -> Data privacy, censorship basically solves issues around that. 
    EG: Mastodon, Steemlit, Lens Protocol
     blockchain powered content platforms: Audius, LBRY
+
+
+#### Open source platforms for blockchain development
+   1. ethereum.org
+   2. hyperledger
+   3. polkadot
+   4. solana
+   5. binance smrt chain
+   6. cardano
+   7. tron
+   8. corda---> business apps in financial services. 
+   9. chainlink
+   10. neo
