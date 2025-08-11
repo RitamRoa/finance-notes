@@ -32,3 +32,9 @@ Social Media:
    8. corda---> business apps in financial services. 
    9. chainlink
    10. neo
+platforms:
+ 1. Remix IDE
+ 2. CryptoZombies
+ 3. EthFiddle
+
+ 
