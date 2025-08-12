@@ -27,3 +27,4 @@ Capital ACC
 Liability ACC
 Trading ACC 
 
+#### CLEAR - Current acc, Liability acc, Expenses acc, Asset acc, Recievable acc
