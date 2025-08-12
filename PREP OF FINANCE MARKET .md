@@ -12,4 +12,18 @@ GROSS PROFIT = COST OF MANUFACTURING + COST OF GOODS SOLD
     voucher account => 
     journal to ledger    =>
     ledger - credit and debit is recorded. 
-    
+
+  Traditional Accounting systems:
+  1. Personal account: SB ACCOUNT => recorded here.
+  3. Real Account    : Assets transaction which can be felt/ touched for this you need real account for eg: CAR, LAND, MILLS. 
+  4. Nominal Account : Small checkout/ monthly expenses in a business. For eg: employee monthly salary.
+
+Networth: Total Assets - Liabilities ===> like loans. 
+
+inventory = assets = stock. (here types of assets)
+invested money on a business from the owners own money is called capital. 
+
+Capital ACC
+Liability ACC
+Trading ACC 
+
