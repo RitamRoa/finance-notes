@@ -26,4 +26,5 @@ How mutual funds work?
   4. Derivatives market : hedging and speculation
 
 Secondary Capital Market : Rather than direct stock market you buy it from someone who already has it 
+
 Deritive market: futures, swap , options ,forwards -> using hedging and speculation, purchase shares from one person after 3 months maybe not same, higher or lower. 
