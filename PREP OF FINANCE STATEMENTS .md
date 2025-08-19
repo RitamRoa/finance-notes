@@ -28,3 +28,7 @@ Liability ACC
 Trading ACC 
 
 #### CLEAR - Current acc, Liability acc, Expenses acc, Asset acc, Recievable acc
+
+Practice problem: [Work - 1.docx](https://github.com/user-attachments/files/21851984/Work.-.1.docx)
+answers : Personal : Rohit, Sum, Capital, drawning, bankloan... Copyright, Patent real acc. 
+
