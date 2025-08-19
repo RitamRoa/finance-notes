@@ -32,3 +32,10 @@ Trading ACC
 Practice problem: [Work - 1.docx](https://github.com/user-attachments/files/21851984/Work.-.1.docx)
 answers : Personal : Rohit, Sum, Capital, drawning, bankloan... Copyright, Patent real acc. 
 
+#### KEEPING TRACK WITH JOURNALS AND LEDGERS IS A 2 MARKS QUESTION. 
+JOURNAL -> company's financial events are being recorded. Nothing is missed. certanty that money will be involved. timing of the financial event. An actual exchange bw parties of cash, goods or some formal reps of value. for eg stock. 
+LEDGERS -> book of accounts. an account is a group of items that we want to keep track of. ledger's each page reps an account. benefit is that we can keep account of any items at any point of time how much of it we have . After making jounral entry, we make an update to it resulting in an entry. everytime an entry is made we make change in atleast 2 accounts (ledger pages) in order to keep the balance sheet and basic eqn of accounting in balance: 
+#####Assets = liabilities + equity. 
+THis eqn shows the finannical position of first and it must always stay in balance 
+THIS SYSTEM OF MAKING LEDGER CHANGES IN PAIRS is DOUBLE ENTRY BOOK-KEEPING SYSTEM. 
+
