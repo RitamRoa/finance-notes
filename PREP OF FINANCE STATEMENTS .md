@@ -38,4 +38,4 @@ LEDGERS -> book of accounts. an account is a group of items that we want to keep
 #####Assets = liabilities + equity. 
 THis eqn shows the finannical position of first and it must always stay in balance 
 THIS SYSTEM OF MAKING LEDGER CHANGES IN PAIRS is DOUBLE ENTRY BOOK-KEEPING SYSTEM. 
-
+Ledger account - the amt 
