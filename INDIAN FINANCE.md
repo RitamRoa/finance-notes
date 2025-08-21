@@ -54,4 +54,8 @@ Debt instruments : Bonds, Debentures, Bills
 Equity instruments : Shares
 Hybrid : convertible debuntures 
 Derivatives: futurs, options. 
-  
+
+  ### Issues in indian financial system :
+  #### Banking sector :
+   -> High non performing assets 
+   -> 
