@@ -28,3 +28,30 @@ How mutual funds work?
 Secondary Capital Market : Rather than direct stock market you buy it from someone who already has it 
 
 Deritive market: futures, swap , options ,forwards -> using hedging and speculation, purchase shares from one person after 3 months maybe not same, higher or lower. 
+## August 21 
+Financial Services:
+ 1. Payment and settlements systems.
+ 2. credit rating agencies -> Credit analysis and research CARE 
+ 3. asset management
+ 4. wealth advisory
+ 5. vc
+capital profit and capital gain:
+PROFIT : u buy phone for 20k and sell it for 25k
+GAIN : you buy land for 30 lakh and overtime it becomes 40lakh
+
+#### Regulatory Framework
+  RBI - central bank; regulates monetary policy and banking 
+  SEBI - Securities and exchange board of india - Regulates capital market - market and its intruments even bonds 
+  IRDAI - Insurance regulatory and development authority of india - oversees insurance sector - lic and general insurance 
+  PFRDA - Pension fund regulatory and development authority - oversees pension funds
+
+#### Structure of the financial system. 
+-> Formal and informal sector 
+Pillars: institutions, market, instruments and services. 
+
+Instruments :
+Debt instruments : Bonds, Debentures, Bills
+Equity instruments : Shares
+Hybrid : convertible debuntures 
+Derivatives: futurs, options. 
+  
