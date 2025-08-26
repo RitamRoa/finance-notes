@@ -39,3 +39,9 @@ LEDGERS -> book of accounts. an account is a group of items that we want to keep
 THis eqn shows the finannical position of first and it must always stay in balance 
 THIS SYSTEM OF MAKING LEDGER CHANGES IN PAIRS is DOUBLE ENTRY BOOK-KEEPING SYSTEM. 
 Ledger account - the amt 
+###### Debit voucher 
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/98e610ba-ab68-4abc-8d8e-b6abd6a85725" />
+
+Practice problems on Assets = liabilities + Capital 
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/02f7f5a9-cc28-4315-9435-fb08dd41ff29" />
