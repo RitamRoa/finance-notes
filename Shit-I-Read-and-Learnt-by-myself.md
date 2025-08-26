@@ -37,8 +37,8 @@ platforms:
  2. CryptoZombies
  3. EthFiddle
 
+The below pics show the code to capture humans in the mp4 using a package. Many Packages like this; description and what they do is put up.
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/979b1085-044f-4dfd-85cf-054adee9187a" />
-
  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/f2b695c5-c89a-4589-92b3-0762d0b1ada0" />
  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/a9100b58-ad4b-4c17-9a15-a6af6682f03e" />
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9c19dec3-8448-4b9c-9e52-3aa7be5c7fb0" />
