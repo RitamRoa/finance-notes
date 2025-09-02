@@ -25,7 +25,7 @@ invested money on a business from the owners own money is called capital.
 
 Capital ACC
 Liability ACC
-Trading ACC 
+Trading ACC t
 
 #### CLEAR - Current acc, Liability acc, Expenses acc, Asset acc, Recievable acc
 
@@ -43,3 +43,14 @@ Ledger account - the amt
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/98e610ba-ab68-4abc-8d8e-b6abd6a85725" />
 
 Practice problems on Assets = liabilities + Capital 
+STOCK - can be raw materials or finished goods. 
+
+Capital accounts -   debit decreae in capital credit increase in capital 
+Liabilty accounts - debit decrease and credit increase 
+Revenue accounts.----- debit decrease credit increase
+asset ----- Debit increase credit decrease
+Income ----  debit decreae in capital credit increase in capital 
+Expenses ----- Increase on expense and decrease on expense 
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/28408ec2-86a1-4fa7-b585-5cea978f6bfe" />
+
