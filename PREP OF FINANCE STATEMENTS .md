@@ -56,5 +56,5 @@ Expenses ----- Increase on expense and decrease on expense
 
 ## Sept 9
 
-[nt3](https://github.com/user-attachments/assets/458b3a07-7d0e-40de-85ff-98ca09613d5d)
+[Table for how depending on the BA the credit and debit changes and a very easy question ](https://github.com/user-attachments/assets/458b3a07-7d0e-40de-85ff-98ca09613d5d)
 
