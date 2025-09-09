@@ -60,4 +60,8 @@ Expenses ----- Increase on expense and decrease on expense
 
 At Loss, credit increases (more loans to make sure the loss is taken care of).
 
+Cash Ac -> Asset Accout -> Debit -> Increases in credit
+Capital Ac -> capital acc -> Credit -> increases with capital. 
+
+
 
