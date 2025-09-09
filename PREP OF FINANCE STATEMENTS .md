@@ -54,3 +54,6 @@ Expenses ----- Increase on expense and decrease on expense
 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/28408ec2-86a1-4fa7-b585-5cea978f6bfe" />
 
+## Sept 9
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d73df5ec-2ffa-416e-9622-9d2bc7cb96f5" />
