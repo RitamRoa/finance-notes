@@ -14,3 +14,6 @@
   Docker Containers: running instance of the image. it uses the hosts os 
 
   Github -> code => Docker-> dockerimages. 
+
+
+THAT'S CRAZY!!!
