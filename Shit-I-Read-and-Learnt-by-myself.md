@@ -19,7 +19,7 @@ Social Media:
  -> Data privacy, censorship basically solves issues around that. 
    EG: Mastodon, Steemlit, Lens Protocol
     blockchain powered content platforms: Audius, LBRY
-
+Genesis block - first block ever mined
 
 #### Open source platforms for blockchain development
    1. ethereum.org
@@ -45,3 +45,21 @@ The below pics show the code to capture humans in the mp4 using a package. Many 
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/7cbfdd89-5e59-4fc8-9d33-32551c8922da" />
 
 
+#### More Jargons (Bitcoin) :
+ 1.Ledger is a constantly changing document that changes whenever someone sends a transaction a new row of data is added. Bitcoin -> every 10mins a new block is added. 
+ 2.Block Hash: A uique indentifier for the block256 bits. a bitcoin block doesnt carry its own hash but the one before it for to form a chain.
+ 3. Public and private keys:
+ Public keys are like email address for the block     public and private gives transaction details. 
+ private keys are the hexadecimal format of 256 - bit number. ECDSA ( elliptical curve digital signature algorithm) secpk256k1 cryptographic SHA256 and RIPEMD160 functions\
+
+ #### rules 
+1. starts with either 1,3 or bc1
+2. rest are bw 25-34 characters long.
+3. 0-9, A/a - Z/z
+4. visual amiguiety isnt there like Ll I 0 o .
+
+![diagram to show how adfdressing is done in blockchain](https://github.com/user-attachments/assets/a2ca862b-6cce-4799-8d26-190857c9fc5b)
+
+
+
+ 
