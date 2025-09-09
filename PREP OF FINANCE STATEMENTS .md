@@ -58,3 +58,6 @@ Expenses ----- Increase on expense and decrease on expense
 
 [Table for how depending on the BA the credit and debit changes and a very easy question ](https://github.com/user-attachments/assets/458b3a07-7d0e-40de-85ff-98ca09613d5d)
 
+At Loss, credit increases (more loans to make sure the loss is taken care of).
+
+
