@@ -58,4 +58,12 @@ Derivatives: futurs, options.
   ### Issues in indian financial system :
   #### Banking sector :
    -> High non performing assets 
-   -> 
+
+# module 2
+Financial Markets : Money Market and Capital Market => Primary and Secondary Market under that we have debt quity for primary and 
+Money Market: Short term markets for short term funds, they are close substitutes for money, low risk, eg: gold is a substitute for money but not under money market 
+Major Participants is RBI. 
+
+#### Money market instruments : 
+1. treasury bills : Issued by RBi upto 1yr. Sold at discount(No discount), no risk highly liquid. 
+2. COmmercial Papers (CP) : 
