@@ -70,3 +70,9 @@ Major Participants is RBI.
 3. Certificate Deposits : Commercial Banks - 7 days to 1 yr : tradable and negotiable.
 4. Repurachase Agreements (Repos) - Banks and financial institutions; overnight to 14 days , short terms borrowing using collaterals
 5. Bankers acceptance : Banks on behalf of clients , Time Varies, backed by banks and used in international trades. 
+
+Primary Market and Secondary Market :
+
+-> New companies which they need new capital, company issue shares they put it up in primary market thru IPO: inital public offering.
+-> These shares issued to the people are traded bw then using stocks called secondary markets.
+SEBI is a regulator 
