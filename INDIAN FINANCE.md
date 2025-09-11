@@ -66,4 +66,7 @@ Major Participants is RBI.
 
 #### Money market instruments : 
 1. treasury bills : Issued by RBi upto 1yr. Sold at discount(No discount), no risk highly liquid. 
-2. COmmercial Papers (CP) : 
+2. Commercial Papers (CP) : Corporations, 7 days - 1 yr, Unsecured, large firms for short terms funcdings.
+3. Certificate Deposits : Commercial Banks - 7 days to 1 yr : tradable and negotiable.
+4. Repurachase Agreements (Repos) - Banks and financial institutions; overnight to 14 days , short terms borrowing using collaterals
+5. Bankers acceptance : Banks on behalf of clients , Time Varies, backed by banks and used in international trades. 
