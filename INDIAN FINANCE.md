@@ -72,7 +72,10 @@ Major Participants is RBI.
 5. Bankers acceptance : Banks on behalf of clients , Time Varies, backed by banks and used in international trades. 
 
 Primary Market and Secondary Market :
-
+COMPANY <=> INVESTORS    -> PRIMARY MARKET
+INVESTORS <=> INVESTORS   -> SECONDARY MARKET 
+Primary Market: No securities are issued . Issuer sells securites to investors 
+Secondary Market: where investors buy and sell securities from other investors
 -> New companies which they need new capital, company issue shares they put it up in primary market thru IPO: inital public offering.
 -> These shares issued to the people are traded bw then using stocks called secondary markets.
 SEBI is a regulator 
