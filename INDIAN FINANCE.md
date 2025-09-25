@@ -80,6 +80,7 @@ Secondary Market: where investors buy and sell securities from other investors
 -> These shares issued to the people are traded bw then using stocks called secondary markets.
 SEBI is a regulator 
 
+## Module 3
 ### Sept 25th
 BSE : founded by Premchand Roy at July 9th 1875 (150 years) at Dalal Street, Mumbai.
 NSE was incorporated at November 27 1992. recognized by SEBI at April 1993 commended at 1994. 
