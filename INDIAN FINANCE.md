@@ -89,7 +89,7 @@ NSE was incorporated at November 27 1992. recognized by SEBI at April 1993 comme
  2. Fixed income securities
  3. derivative market. 
 CEO : Ashishkumar Chauhan
-Market Cap: 438 lakh crore rupees ($ 5.2 trillion) with 2700+ companies
+Market Cap: 438 lakh crore rupees ($ 5.2 trillion) with 2670 companies (as of dec 2024)
 
 Nifty 50 (flagship 50 companies) , Nifty Next 50, Nifty Bank, Nifty Financial serivies, Nifty midcap select ---> Index names ** imp
 
