@@ -82,8 +82,13 @@ SEBI is a regulator
 
 ### Sept 25th
 BSE : founded by Premchand Roy at July 9th 1875 (150 years) at Dalal Street, Mumbai.
-NSE was incorporated at 1992. recognized by SEBI at April 1993 commended at 1994. 
+NSE was incorporated at November 27 1992. recognized by SEBI at April 1993 commended at 1994. 
 2 assets 
  1. Capital market
  2. Fixed income securities
  3. derivative market. 
+CEO : Ashishkumar Chauhan
+Market Cap: 438 lakh crore rupees ($ 5.2 trillion) with 2700+ companies
+
+Nifty 50 (flagship 50 companies) , Nifty Next 50, Nifty Bank, Nifty Financial serivies, Nifty midcap select ---> Index names ** imp
+
