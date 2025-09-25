@@ -79,3 +79,11 @@ Secondary Market: where investors buy and sell securities from other investors
 -> New companies which they need new capital, company issue shares they put it up in primary market thru IPO: inital public offering.
 -> These shares issued to the people are traded bw then using stocks called secondary markets.
 SEBI is a regulator 
+
+### Sept 25th
+BSE : founded by Premchand Roy at July 9th 1875 (150 years) at Dalal Street, Mumbai.
+NSE was incorporated at 1992. recognized by SEBI at April 1993 commended at 1994. 
+2 assets 
+ 1. Capital market
+ 2. Fixed income securities
+ 3. derivative market. 
