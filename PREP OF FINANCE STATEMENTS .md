@@ -63,5 +63,6 @@ At Loss, credit increases (more loans to make sure the loss is taken care of).
 Cash Ac -> Asset Accout -> Debit -> Increases in credit
 Capital Ac -> capital acc -> Credit -> increases with capital. 
 
-
-
+##### 6 Marks question
+   ![1000062294](https://github.com/user-attachments/assets/ec080a5d-1a85-4586-88a7-99d82c7501e5)
+   ![1000062293](https://github.com/user-attachments/assets/e966b502-9025-426c-9166-1df53a18652d)
