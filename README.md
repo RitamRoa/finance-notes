@@ -3,3 +3,5 @@
    ### What it contains:
    1. Minor Finance notes in 3rd Sem.
    2. All things i have learnt by myself 
+
+I could have easily made this repo private..
