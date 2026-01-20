@@ -7,3 +7,5 @@ first generation - emerged in early 1980s deals with rational wants - what they 
 second genertion - people as norma and having full range of normal wants: utilitarian and expressive and emotional. 
 
 Utility - capacity of a commodity to satisfy a user preference. this cannot be quantified. 
+
+marginal utility: how much "satisfaction" you get after 1 utility consumption. diminishing marginal utility - "happiness" goes down with each consumption of an utility. 
