@@ -1,7 +1,7 @@
 # FINANCE - NOTES (and etc)
 
    ### What it contains:
-   1. Minor Finance notes in 3rd Sem.
+   1. Minor Finance notes in 3rd Sem only
    2. All things i have learnt by myself 
 
 I could have easily made this repo private..
